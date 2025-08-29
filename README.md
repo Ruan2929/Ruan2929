@@ -1,6 +1,6 @@
 <!-- Banner ou frase de boas-vindas -->
 <h1 align="center">Olá! Eu sou o Ruan 👋</h1>
-<h3 align="center">Estudante da ETEC Albert Einstein | Apaixonado por tecnologia 🚀</h3>
+<h3 align="center">Estudante da ETEC Albert Einstein 🚀</h3>
 
 <!-- GIF animado (opcional, pode trocar o link por outro) -->
 <p align="center">
