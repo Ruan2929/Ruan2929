@@ -8,13 +8,12 @@
 ---
 
 ## Tecnologias
-
+- C#
 - HTML
 - CSS
 - JavaScript
 - Python
 - Banco de Dados
-- Git e GitHub
 
 ---
 
