@@ -26,7 +26,7 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos e prática d
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruan2929&show_icons=true&hide_title=true)
 
 ---
 
