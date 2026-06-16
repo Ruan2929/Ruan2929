@@ -31,5 +31,5 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos e prática d
 
 ## Contato
 
-- GitHub: https://github.com/SEU_USUARIO
-- Email: seuemail@email.com
+- GitHub: https://github.com/Ruan2929
+- Email: 
